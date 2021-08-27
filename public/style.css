@@ -3,14 +3,16 @@ img{
     width: 500px;
 }
 body{
-    font-family: 'Uchen', serif;
+    font-family: 'Kaisei Decol', serif;
     text-align: center;
 }
 
 #inputTwo{
-    background: lightseagreen;
+    background: rgb(144, 32, 178);
+    padding:10px;
+    color:white;
 }
 ul{
-    font-size: 25px;
+    font-size: 35px;
     list-style-type: none;
 }
