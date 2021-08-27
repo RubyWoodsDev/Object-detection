@@ -1,0 +1,16 @@
+img{
+    float: left;
+    width: 500px;
+}
+body{
+    font-family: 'Uchen', serif;
+    text-align: center;
+}
+
+#inputTwo{
+    background: lightseagreen;
+}
+ul{
+    font-size: 25px;
+    list-style-type: none;
+}
